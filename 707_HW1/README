@@ -1,0 +1,3 @@
+// change directory to unzipped path and execute following
+
+python model_run.py

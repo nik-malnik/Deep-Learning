@@ -1,0 +1,2 @@
+python language_model.py # Uses keras, tensorflow to run the RNN experiments for the bonus approach.
+python model_run.py # Runs the basic network for 10 epochs and 0.1 learning rate.

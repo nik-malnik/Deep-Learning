@@ -1,0 +1,9 @@
+// change directory to unzipped path and execute following
+
+// To run auto encoder
+
+python model_run.py
+
+// To run rbm
+
+python rbm.py
